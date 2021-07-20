@@ -2,9 +2,8 @@
 
 > eCommerce platform built with the PERN stack & Redux.
 
-This is a practice from the course project y [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
+This is a practice project from the Brad Traversy's course project  [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
-# ![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
 
 ## Features
 
