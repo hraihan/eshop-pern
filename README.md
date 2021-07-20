@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# EBazar eCommerce Platform
 
 > eCommerce platform built with the PERN stack & Redux.
 
